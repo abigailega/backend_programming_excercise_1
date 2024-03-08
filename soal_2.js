@@ -1,3 +1,4 @@
+// soal 2
 const students = [
     {
         id: "535250001",
